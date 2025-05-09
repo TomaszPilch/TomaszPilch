@@ -16,3 +16,4 @@ I'm Tomasz, I'm in love with elegant, efficient, and scalable code, ensuring tha
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)  
 ![Kibana](https://img.shields.io/badge/-Kibana-FA4D67?style=flat-square&logo=kibana&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
+![Keycloak](https://img.shields.io/badge/-Keycloak-35495E?style=flat-square&logo=keycloak&logoColor=white)
